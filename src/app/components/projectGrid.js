@@ -3,7 +3,7 @@ export default function projectGrid() {
     return(
 
         <div className="project-grid">
-        <ProjectCard link="https://storbeed.com/" topic="Voyage" content="Najbardziej zaawansowany projekt studia storbeed wykorzystujący silnik Unity3D do stworzenia immersyjnej gry horrorowej."/>
+        <ProjectCard link="https://storbeed.com/" topic="Voyage" content="Najbardziej zaawansowany projekt studia storbeed wykorzystujący silnik Unity3D do tworzenia immersyjnej gry horrorowej."/>
         <ProjectCard link="https://mw-service.pl/" topic="mw-service.pl" content="Projekt witryny internetowej dla polskiego przedsiębiorstwa MW Service."/>
         <ProjectCard link="https://storbeed.itch.io/gucio-simulation" topic="Gucio: Simulation" content="Drugi projekt grupy storbeed, liniowa gra o tematyce horrorowej."/>
     
