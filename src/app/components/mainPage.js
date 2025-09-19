@@ -13,7 +13,8 @@ export default function mainPage() {
                     gdzie ukończyłem kierunek inżynieria systemów bezzałogowych. 
                     Moja pasja do technologii zaprowadziła mnie do świata IT 
                     i game developmentu, gdzie obecnie rozwijam swoje umiejętności jako 
-                    programista, designer i współwłaściciel studia tworzącego gry od 2020r.</p>
+                    programista, designer i współwłaściciel studia tworzącego gry od 2020r.
+                    Aktualnie kontynuuję swoją karierę naukową na kierunku Informatyka.</p>
                 </div>
                 
             </div>
